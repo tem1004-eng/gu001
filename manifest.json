@@ -1,0 +1,15 @@
+{
+  "name": "주일학교 출석부",
+  "short_name": "출석부",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#56ab2f",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
